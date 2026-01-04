@@ -6,4 +6,3 @@ google-generativeai
 newsapi-python
 python-dotenv
 pydantic
-
