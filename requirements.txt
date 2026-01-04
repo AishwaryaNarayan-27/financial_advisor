@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+google-generativeai
+newsapi-python
+python-dotenv
+pydantic
+
